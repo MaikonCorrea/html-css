@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(229, 219, 202);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+h1{
+    color: rgb(155, 99, 43);
+}
+h2{
+    color: blue;
+    background-color: aqua;
+}
+p{
+    color: rgb(111, 227, 184);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
